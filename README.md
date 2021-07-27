@@ -4,7 +4,6 @@
 * [Description](#Description)
 * [Screenshot](#Screenshot)
 ## Description
-Horiseon website restructured for accessibility.  
-HTML and CSS changed to reflect changes made to source code.
+Horiseon is a website that I restructured for search engine optimizations and accessibility.  
 ## Screenshot
 ![Screenshot](/assets/images/Screenshot.png)
